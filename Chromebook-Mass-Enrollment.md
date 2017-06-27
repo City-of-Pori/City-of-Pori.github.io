@@ -17,8 +17,8 @@ This document describes the process used for mass enrolling Chromebooks for the 
 
 ### Software
 
-* Custom Arduino code for emulating a keyboard (code available soon)
-* Custom Python/curses application for commanding the Arduino through the network (code available soon)
+* Custom Arduino code for emulating a keyboard (*code available soon*)
+* Custom Python/curses application for commanding the Arduino through the network (*code available soon*)
 
 ### Other equipment
 
@@ -73,8 +73,8 @@ Collapsible boxes were purchased to aid in moving the enrolled devices during th
 ### General process
 1. Unpack and reset OS for 9 sets of 8 devices for a total of 96 devices.
 2. For each layer of 24 devices (3 sets of 8) in the enrollment rig:
-  2.1. Enroll the devices.
-  2.2. Pack the devices.
+   1. Enroll the devices.
+   2. Pack the devices.
 
 
 ### Unpacking
